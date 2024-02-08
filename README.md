@@ -6,6 +6,6 @@ runme:
 
 # Copilot Language Translator
 
-This asset will help to translate the localization files of copilot.
+This asset will help to translate the localization files of the copilot.
 
-The base lanaguge must be in english and the target langauges must be given in its code format.
+The base language must be in English and the target languages must be given in its code format.
